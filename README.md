@@ -1,14 +1,31 @@
-# React + Vite
+# 미니 프로젝트 - Simple_Counter
+### 인프런 - 한입 크기로 잘라먹는 React(React.js) 강의 프로젝트
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 📌 간략한 소개
+- 기초 React 개념 및 Hook을 이용한 간단 프로젝트
+- 기능: 현재 카운트 출력, 카운트 + 및 - 버튼을 통한 카운트 변동
+  웹 배포 링크 : https://charming-raindrop-7d50d9.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
-netlify를 이용한 프로젝트 웹 배포 링크 : https://charming-raindrop-7d50d9.netlify.app/
+
+
+---
+
+
+## 📅 개발 기간
+- 25/03/09 ~ 25/03/14
+
+---
+
+## 🛠️ 사용 기술
+- React, Vite
+
+
+---
+
+
